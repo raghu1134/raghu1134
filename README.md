@@ -1,4 +1,4 @@
-<h3 align="left">Cybersecurity | CTFs | Turning vulnerabilities into pull requests so attackers don’t have to.</h3>
+<h2 align="left">Cybersecurity | CTFs | Turning vulnerabilities into pull requests so attackers don’t have to.</h2>
 
 ###
 
@@ -96,4 +96,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
 </div>
 
-###
+
+
+<h2 align="center">
+  Check out my web terminal!
+  <a href="https://raghu1134.netlify.app">Slide In...</a>
+</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/raghu1134/raghu1134/main/raghu1134.netlify.app_(high%20res).png"
+       style="width:100%; height:auto;">
+</div>
